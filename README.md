@@ -15,7 +15,6 @@ Started my journey into Data Analysis learning how to clean data, undertanding t
 2.) **Appending:** It is involves enhancing and enriching existing datasets by adding missing information to them or adding more data to them.
 <br/> 
 ![](DATAC2.png)
-
 <br/> 
 
 ***
