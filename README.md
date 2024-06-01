@@ -23,5 +23,4 @@ Started my journey into Data Analysis learning how to clean data, undertanding t
 ***
 ## FIRST CONTACT: _Populating Data_ <br/> 
 1.) The page below talks about the attrition rate of an organization looking at knowing why they are loosing their talents and intend on improving productivity.
-
 ![](attrition1)
