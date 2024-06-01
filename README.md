@@ -6,12 +6,12 @@ This repo talks about my personal projects in data analysis with Incubator Niger
 Started my journey into Data Analysis learning how to clean data, undertanding that working with data also has to do with paying attention to data types, merging and appending data with diffrent commands on the Power Querry.
 
 
-1.) Data Cleaning
+1.) Data Cleaning: This is the process of identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting the dirty data.
 
 ![](DATAC1.png)
 
 <br/> 
-2.) Appending
+2.) Appending: It is involves enhancing and enriching existing datasets by adding missing information to them or adding more data to them.
 
 ![](DATAC2.png)
 
@@ -21,6 +21,3 @@ Started my journey into Data Analysis learning how to clean data, undertanding t
 ![](DATAC3.png)
 
 ***
-## FIRST CONTACT: _Populating Data_ <br/> 
-1.) The page below talks about the attrition rate of an organization looking at knowing why they are loosing their talents and intend on improving productivity.
-![](attrition1)
