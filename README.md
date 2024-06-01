@@ -19,3 +19,6 @@ Started my journey into Data Analysis learning how to clean data, undertanding t
 3.) Merging
 
 ![](DATAC3.png)
+
+## FIRST CONTACT: _Data Cleaning_ <br/> 
+
