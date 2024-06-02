@@ -4,7 +4,7 @@ This repo talks about my little beginning emarking on data analysis with Incubat
 ***
 
 ## FIRST CONTACT: _Data Cleaning_ <br/> 
-Started my journey into Data Analysis learning how to clean data, undertanding that working with data also has to do with paying attention to data types, merging and appending data with diffrent commands on the Power Querry.
+Started my journey into Data Analysis learning how to clean data, understanding that working with data also has to do with paying attention to data types, merging and appending data with different commands on the Power Query.
 
 
 1.) **Data Cleaning:** This is the process of identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting the dirty data. <br> The data below was cleaned ensuring that the data types were accurate.
